@@ -42,5 +42,15 @@ Despite this, the model performs strongly on common animals and general categori
 
 ---
 
-## 📁 Project Structure
+## 📁 LARGE and NECESSARY FILES
+
+**MODEL** :[ BEST.PT ](https://drive.google.com/file/d/1ZFxPLpcta4iaXDSnKudWGkBYszOTErVm/view?usp=drive_link)
+
+**ENVIRONMENT** : [ .venv ](https://drive.google.com/file/d/1xbNnC0TEHTbfHyEHgZndc0QEQZQmsIUe/view?usp=drive_link)
+
+**IMPLEMENTED SUCCESSFULLY** : [IMPLEMENTATION PROOF](https://drive.google.com/file/d/1RTUxTbh1qfcbryduvG3C8aRiEMS4z2XZ/view?usp=drive_link)
+
+**Image used for Detection**: [EX image](https://drive.google.com/file/d/1qxx2yt8MKU-lU9nQZXIJu_RmMjfCFzX1/view?usp=sharing)
+
+**Video used for Detection** [EX video](https://drive.google.com/file/d/1zRZ-wI3KAmisiSSnKMe0wOHIm3MP1lFo/view?usp=drive_link)
 
